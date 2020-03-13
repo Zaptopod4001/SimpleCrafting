@@ -29,7 +29,7 @@ User is given the crafted item(s).
 # Classes
 
 ##  CraftingForge.cs
-Main crafting class, can be used to craft items. Note: there is demo region that contains sample how to use this system.
+Main crafting class, can be used to craft items.
 
 ## IngredientInventory.cs
 An inventory class that contains a list of each collected ingredient king and its count. Add and remove ingredients.
@@ -39,6 +39,7 @@ Item template that contains information about which ingredients are needed and w
 
 
 # How to use
+Note: there is demo region in CraftingForge.cs which contains sample how to use this system.
 
 First create your craftable item templates:
 
