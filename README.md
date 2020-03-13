@@ -21,7 +21,7 @@ If user ingredient inventory has required ingredients, inventory count of ingred
 
 ![Crafting step one](/doc/simple_crafting_step1.png)
  
-User is given the crafted item.
+User is given the crafted item(s).
  
 ![Crafting step two](/doc/simple_crafting_step2.png)
  
