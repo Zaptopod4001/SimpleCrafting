@@ -44,7 +44,7 @@ Note: there is demo region in CraftingForge.cs which contains sample how to use 
 First create your craftable item templates:
 
 ```C#
-// Create item templates (some where in your code)
+// Create item templates (somewhere in your code)
 item1 = new CraftableItem("Stone axe");
 item1.AddIngredient(Ingredient.Wood, Ingredient.Stone);
 
